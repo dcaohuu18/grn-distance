@@ -1,0 +1,7 @@
+scanpy[leiden]==1.10.4
+scipy
+pandas
+loompy
+pyscenic # pip install pyscenic --upgrade git+https://github.com/aertslab/pySCENIC.git
+dask < 2024.1.0 
+distributed < 2024.1.0
